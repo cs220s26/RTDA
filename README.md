@@ -1,7 +1,7 @@
 # RTDA
 
 # Names
-Riley Trigo
-Tori Champagne
-Mariama Diallo
-Alexavier Santana
+Riley Trigo RileyJTrigo
+Tori Champagne champagnet04
+Mariama Diallo diallom-max
+Alexavier Santana AlexavierSantana
